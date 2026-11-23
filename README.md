@@ -6,6 +6,7 @@ Projeto individual desenvolvido para a disciplina de Banco de Dados no **Centro 
 - **Nome:** Davi Negreiros de Macêdo Reis
 - **Instituição:** Centro Universitário Santo Agostinho (UNIFSA)
 
+
 ## Tecnologias Utilizadas
 - **Linguagem:** Python 3
 - **Dashboard:** Streamlit e Pandas
